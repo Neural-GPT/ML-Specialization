@@ -1,0 +1,2 @@
+In the provided IPYNB file, I explore and compare python loops with vectorization using numpy. Turns out vectorization is much faster as it implemets calculations
+using C underneath the hood of numpy!
