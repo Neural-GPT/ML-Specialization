@@ -1,0 +1,1 @@
+In the given jupyter notebook I create and code gradient descent in python as I learned from ML Specialization.
